@@ -1,1 +1,1 @@
-[![neobot status](https://betteruptime.com/status-badges/v1/monitor/efvg.svg)](https://betteruptime.com/?utm_source=status_badge)
+hello, welcome to the neobot bug repository you can [report bug](https://github.com/neobot-org/neobot-bugs/issues/new) and if you have any problems with the bot (related to being disconnected or the bot is slow to answer) you can check the status  [[neobot status](https://status.neobotdds.ml/)]
